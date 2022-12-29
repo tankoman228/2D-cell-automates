@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Life_the_game\Life_the_game\bin\Release\Life_the_game.exe.config
+C:\Users\Admin\source\repos\Life_the_game\Life_the_game\bin\Release\Life_the_game.exe
+C:\Users\Admin\source\repos\Life_the_game\Life_the_game\bin\Release\Life_the_game.pdb
+C:\Users\Admin\source\repos\Life_the_game\Life_the_game\obj\Release\Life_the_game.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Life_the_game\Life_the_game\obj\Release\Life_the_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Life_the_game\Life_the_game\obj\Release\Life_the_game.Form1.resources
+C:\Users\Admin\source\repos\Life_the_game\Life_the_game\obj\Release\Life_the_game.Properties.Resources.resources
+C:\Users\Admin\source\repos\Life_the_game\Life_the_game\obj\Release\Life_the_game.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Life_the_game\Life_the_game\obj\Release\Life_the_game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Life_the_game\Life_the_game\obj\Release\Life_the_game.exe
+C:\Users\Admin\source\repos\Life_the_game\Life_the_game\obj\Release\Life_the_game.pdb
