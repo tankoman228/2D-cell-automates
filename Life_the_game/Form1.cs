@@ -180,6 +180,24 @@ namespace Life_the_game
 
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < m; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    map[i, j] = false;
+                }
+            }
+            render_map();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            map[m / 2, n / 2] = true;
+            render_map();
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             create_map();
